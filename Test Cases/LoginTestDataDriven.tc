@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login test on orangeHRM</description>
+   <name>LoginTestDataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8efdc1e5-257e-4659-a50f-b2d61ed8fbd8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a2fdcbf8-0829-47f8-ba8b-8ee25824c54d</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>064ee1cb-7221-45be-81a1-0b9f8ad8f63a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
